@@ -8,7 +8,6 @@
 
 [Getting Started](./getting-started.md)
 
-[Versions Compatibility and Supportability](./versions_compatibility_supportability.md)
 ---
 
 - [Tutorial: Building CronJob](cronjob-tutorial/cronjob-tutorial.md)
@@ -33,8 +32,6 @@
     - [Deploying webhooks](./cronjob-tutorial/running-webhook.md)
 
   - [Writing tests](./cronjob-tutorial/writing-tests.md)
-
-  - [Epilogue](./cronjob-tutorial/epilogue.md)
 
 - [Tutorial: Multi-Version API](./multiversion-tutorial/tutorial.md)
 
@@ -114,6 +111,7 @@
     - [Reference](./reference/metrics-reference.md)
 
   - [Project config](./reference/project-config.md)
+  - [Versions Compatibility and Supportability](./versions_compatibility_supportability.md)
 
 ---
 

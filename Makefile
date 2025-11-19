@@ -232,8 +232,8 @@ GO_APIDIFF ?= $(LOCALBIN)/go-apidiff
 GOLANGCI_LINT ?= $(LOCALBIN)/golangci-lint
 
 ## Tool Versions
-GO_APIDIFF_VERSION ?= v0.6.1
-GOLANGCI_LINT_VERSION ?= v2.5.0
+GO_APIDIFF_VERSION ?= v0.8.3
+GOLANGCI_LINT_VERSION ?= v2.6.0
 
 # go-install-tool will 'go install' any package with custom target and name of binary, if it doesn't exist
 # $1 - target path with name of binary
